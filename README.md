@@ -1,5 +1,8 @@
 # 015_vue_todo
 
+### All commits you can see in another [repository](https://github.com/Markelas/vueCourse/tree/main) in folder "015_vue_todo"
+### [Link](https://vue-ts-todos.web.app/)
+
 ## Project setup
 ```
 npm install
